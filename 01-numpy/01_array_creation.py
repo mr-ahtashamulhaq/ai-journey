@@ -9,7 +9,7 @@ arr_2d = np.array([[1,2,3], [4,5,6], [7,8,9]])
 print("\n2d Array : \n",arr_2d)
 
 # MULTIPLICATION
-# Simple List Of Python
+# Simple List Of Python. 
 sim_list = [1,2,3]
 print("\n", sim_list * 2) #  [1, 2, 3, 1, 2, 3]
 
